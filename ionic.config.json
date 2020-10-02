@@ -1,0 +1,7 @@
+{
+  "name": "meubolso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

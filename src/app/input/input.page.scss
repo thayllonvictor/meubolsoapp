@@ -1,0 +1,38 @@
+ion-tab-bar{
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
+ion-toolbar{
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+.header-md::after{
+  background: none !important;
+}
+
+.container{
+	margin-top: 40px;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+ion-input{
+	font-family: "Uroob";
+	font-size: 1.7em;
+	height: 50px;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+	color: #808080;
+	border-radius: 5px;
+	border-bottom: 3px solid #808080;
+	padding-left: 10px !important;
+	padding-top: 5px !important;
+	margin-bottom: 10px;
+}
+
+ion-title{
+	border-bottom: 1px solid #808080;
+	color: #808080;
+	font-size: 2em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 0;
+}
+ion-span{ color:#808080; font-size: 1em; text-transform: uppercase;}
